@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chase Lee</title>
-    <link>http://chaselee.io/</link>
+    <link>http://chase.io/</link>
     <description>Recent content on Chase Lee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
     <lastBuildDate>Sat, 29 Dec 2018 14:16:46 -0500</lastBuildDate>
     
-	<atom:link href="http://chaselee.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://chase.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Work in Progress</title>
-      <link>http://chaselee.io/posts/work-in-progress/</link>
+      <link>http://chase.io/posts/work-in-progress/</link>
       <pubDate>Sat, 29 Dec 2018 14:16:46 -0500</pubDate>
       
-      <guid>http://chaselee.io/posts/work-in-progress/</guid>
+      <guid>http://chase.io/posts/work-in-progress/</guid>
       <description>This site, like all of us, is a work in progress.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://chaselee.io/about/</link>
+      <link>http://chase.io/about/</link>
       <pubDate>Sat, 29 Dec 2018 13:54:01 -0500</pubDate>
       
-      <guid>http://chaselee.io/about/</guid>
+      <guid>http://chase.io/about/</guid>
       <description>Chase Lee is the Co-founder &amp;amp; CTO of Ambassador, a Metro Detroit-based startup whose relationship marketing platform helps companies turn their current customers into brand ambassadors. Ambassador was a member of the 2011 Techstars NYC class and has helped power some of the world’s largest refer a friend campaigns.
 Prior to Ambassador, he co-founded and served as the CTO of Fetchnotes, makers of mobile productivity apps and a member of the Techarb student accelerator in Ann Arbor and Techstars Boston.</description>
     </item>
