@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>Posts on Chase Lee</title>
-		<link>https://chaselee.github.io/posts/</link>
+		<link>http://chaselee.io/posts/</link>
 		<description>Recent content in Posts on Chase Lee</description>
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
 		<lastBuildDate>Sat, 29 Dec 2018 14:16:46 -0500</lastBuildDate>
-		<atom:link href="https://chaselee.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="http://chaselee.io/posts/index.xml" rel="self" type="application/rss+xml" />
 		
 		<item>
 			<title>Work in Progress</title>
-			<link>https://chaselee.github.io/posts/work-in-progress/</link>
+			<link>http://chaselee.io/posts/work-in-progress/</link>
 			<pubDate>Sat, 29 Dec 2018 14:16:46 -0500</pubDate>
 			
-			<guid>https://chaselee.github.io/posts/work-in-progress/</guid>
+			<guid>http://chaselee.io/posts/work-in-progress/</guid>
 			<description>This site, like all of us, is a work in progress.</description>
 			<content type="html"><![CDATA[<p>This site, like all of us, is a work in progress.</p>
 ]]></content>
